@@ -159,7 +159,7 @@
                         android:id="@+id/rbCandidato1"
                         android:layout_width="match_parent"
                         android:layout_height="48dp"
-                        android:text="👤  Candidato 1 — Juan Pérez"
+                        android:text="👤  Candidato 1 — Estiven Cano"
                         android:textSize="15sp"
                         android:gravity="center_vertical"
                         android:buttonTint="#1A237E"/>
@@ -168,7 +168,7 @@
                         android:id="@+id/rbCandidato2"
                         android:layout_width="match_parent"
                         android:layout_height="48dp"
-                        android:text="👤  Candidato 2 — María Gómez"
+                        android:text="👤  Candidato 2 — Angi Ruiz"
                         android:textSize="15sp"
                         android:gravity="center_vertical"
                         android:buttonTint="#1A237E"/>
